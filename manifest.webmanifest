@@ -2,11 +2,11 @@
   "name": "app name",
   "short_name": "short name",
   "theme_color": "#fff",
-  "background_color": "#fff",
+  "background_color": "",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "/index.html",
+  "start_url": "/Pwa_playtesting/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
